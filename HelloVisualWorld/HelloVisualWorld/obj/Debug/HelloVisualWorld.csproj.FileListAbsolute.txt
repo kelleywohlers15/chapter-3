@@ -1,0 +1,10 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csprojAssemblyReference.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.HelloVisualWorld.resources
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.Properties.Resources.resources
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.GenerateResource.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe.config
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.pdb
